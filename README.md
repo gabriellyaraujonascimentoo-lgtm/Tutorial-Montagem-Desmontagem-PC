@@ -5,7 +5,7 @@
 > 🏫 **Disciplina:** Montagem e Manutenção de Computadores
 > 📅 **Data da prática:** [dd/mm/aaaa]
 
-![Foto de capa: visão geral do computador aberto sobre a bancada](foto.png)
+![Foto de capa: visão geral do computador aberto sobre a bancada](foto1.png)
 
 ---
 
