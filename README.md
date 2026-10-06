@@ -1,15 +1,15 @@
-# 🖥️ Desmontagem e Montagem de um PC Desktop
+#Desmontagem e Montagem de um PC Desktop
 ### Um guia prático, passo a passo, feito por duas alunas do IFPB, técnicas em informática
 
-> 👥 **Dupla:** Maria Gabrielle de O. A. Nascimento e Kathleen Brenda dos S. Pontes                                                                                                                                            
-> 🏫 **Disciplina:** Montagem e Manutenção de Computadores                                                                                                                                                                     
-> 📅 **Data da prática:** [dd/mm/aaaa]
+> **Dupla:** Maria Gabrielle de O. A. Nascimento e Kathleen Brenda dos S. Pontes                                                                                                                                            
+> **Disciplina:** Montagem e Manutenção de Computadores                                                                                                                                                                     
+> **Data da prática:** [dd/mm/aaaa]
 
 ![Foto de capa: visão geral do computador aberto sobre a bancada](foto1.png)
 
 ---
 
-## 📑 Índice
+##Índice
 
 1. [Introdução](#-introdução)
 2. [Ferramentas e componentes](#-ferramentas-e-componentes)
@@ -22,7 +22,7 @@
 
 ---
 
-## 🎯 Introdução
+##Introdução
 
 Neste tutorial vamos mostrar, com fotos reais da nossa aula prática, como **desmontar** um computador desktop até o último componente e como **montá-lo novamente** na ordem certa.
 
@@ -30,18 +30,18 @@ Saber fazer isso é a base de qualquer trabalho de manutenção: antes de conser
 
 **O que você vai aprender:**
 
-- ✅ Identificar os principais componentes de um PC
-- ✅ Remover cada peça com segurança, na sequência correta
-- ✅ Remontar o computador sem esquecer nenhum cabo ou parafuso
-- ✅ Saber o que fazer depois de ligar pela primeira vez
+- Identificar os principais componentes de um PC
+- Remover cada peça com segurança, na sequência correta
+-  Remontar o computador sem esquecer nenhum cabo ou parafuso
+- Saber o que fazer depois de ligar pela primeira vez
 
-⏱️ **Tempo estimado:** [xx] minutos &nbsp;|&nbsp; 🎚️ **Nível:** iniciante
+**Tempo estimado:** [xx] minutos &nbsp;|&nbsp; **Nível:** iniciante
 
 ---
 
-## 🧰 Ferramentas e componentes
+##Ferramentas e componentes
 
-### 🔧 Ferramentas utilizadas
+###Ferramentas utilizadas
 
 | Ferramenta | Para que serve |
 |---|---|
@@ -57,7 +57,7 @@ Saber fazer isso é a base de qualquer trabalho de manutenção: antes de conser
 
 ![Foto: ferramentas organizadas sobre a bancada](imagens/ferramentas.jpg)
 
-### 🧩 Componentes do computador
+###Componentes do computador
 
 | Componente | Função |
 |---|---|
@@ -74,17 +74,17 @@ Saber fazer isso é a base de qualquer trabalho de manutenção: antes de conser
 
 ---
 
-## ⚠️ Antes de começar: cuidados
+##Antes de começar: cuidados
 
-- 🔌 **Desligue e tire da tomada.** Nunca trabalhe com o PC ligado à energia.
-- ⚡ **Descarregue a eletricidade estática.** Toque em uma parte metálica do gabinete ou use pulseira antiestática.
-- 🧹 **Bancada limpa e organizada.** Menos bagunça, menos erros.
-- 🔩 **Separe os parafusos por tipo.** Cada etapa pode ter parafusos diferentes.
-- 📸 **Fotografe antes de desconectar.** Isso ajuda muito na hora de remontar.
+- **Desligue e tire da tomada.** Nunca trabalhe com o PC ligado à energia.
+- **Descarregue a eletricidade estática.** Toque em uma parte metálica do gabinete ou use pulseira antiestática.
+- **Bancada limpa e organizada.** Menos bagunça, menos erros.
+- **Separe os parafusos por tipo.** Cada etapa pode ter parafusos diferentes.
+- **Fotografe antes de desconectar.** Isso ajuda muito na hora de remontar.
 
 ---
 
-## 🔽 Desmontagem passo a passo
+##Desmontagem passo a passo
 
 > Siga a ordem abaixo. Ela evita danos e facilita a remontagem.
 
@@ -133,7 +133,7 @@ Placas de rede, de captura ou qualquer outra conectada à placa-mãe saem da mes
 ### Passo 7 · Desconectar os cabos do painel frontal
 Retire os conectores do gabinete ligados à placa-mãe: botão de liga/desliga, reset, LEDs, USB frontal e áudio.
 
-> 📌 Tire uma foto desta região antes. É a etapa em que mais se erra na montagem.
+> Tire uma foto desta região antes. É a etapa em que mais se erra na montagem.
 
 ![Foto do passo 7](imagens/desmontagem-07.jpg)
 
@@ -186,11 +186,11 @@ Com o gabinete vazio, aproveite para limpar a poeira com pincel e ar comprimido.
 
 ![Foto do passo 14: gabinete vazio e limpo](imagens/desmontagem-14.jpg)
 
-✅ **Desmontagem concluída!**
+**Desmontagem concluída!**
 
 ---
 
-## 🔼 Montagem passo a passo
+##Montagem passo a passo
 
 > Agora fazemos o caminho inverso, mas com atenção à ordem.
 
@@ -302,31 +302,31 @@ Reconecte os periféricos externos.
 
 ---
 
-### Passo 16 · Ligar pela primeira vez 🚀
+### Passo 16 · Ligar pela primeira vez
 Conecte o cabo de energia, ligue o PC e observe se ele inicia normalmente.
 
 ![Foto do passo 16: computador ligado](imagens/montagem-16.jpg)
 
-✅ **Montagem concluída!**
+**Montagem concluída!**
 
 ---
 
-## 🏁 Depois da montagem
+##Depois da montagem
 
 1. **Configurar o Setup (BIOS/UEFI):** data, hora e ordem de boot.
 2. **Instalar o sistema operacional.**
 3. **Instalar os aplicativos necessários.**
 
-🎉 O PC está pronto!
+ O PC está pronto!
 
 ---
 
 
-## 📚 Referências e créditos
+##Referências e créditos
 
 - Roteiro-base adaptado de: [Montagem e desmontagem de computadores, de Maxwell Anderson](https://maxwellamaral.github.io/lessons/hardware/repair/disassembly/) (licença [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pt-br)).
 - Fotos: registros feitos pela própria dupla durante a aula prática.
 
 ---
 
-<sub>🔒 Este repositório não contém imagens de rostos nem dados pessoais, conforme a regra de privacidade da atividade.</sub>
+<sub>Este repositório não contém imagens de rostos nem dados pessoais, conforme a regra de privacidade da atividade.</sub>
