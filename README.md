@@ -70,7 +70,6 @@ Saber fazer isso é a base de qualquer trabalho de manutenção: antes de conser
 | Armazenamento (HDD/SSD) | Guarda sistema e arquivos |
 | Placa de vídeo / outras placas | Imagem, som e expansões, quando existirem |
 
-![Foto: componentes retirados e separados na bancada](imagens/componentes.jpg)
 
 ---
 
