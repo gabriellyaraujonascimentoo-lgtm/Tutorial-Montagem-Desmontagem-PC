@@ -98,28 +98,28 @@ Desligue o computador, tire o cabo da tomada e desconecte mouse, teclado, monito
 ### Passo 2 · Abrir o gabinete
 Remova os parafusos que prendem a tampa lateral e deslize-a para fora.
 
-![Foto do passo 2](imagens/desmontagem-02.jpg)
+![Foto do passo 2](foto2.png)
 
 ---
 
 ### Passo 3 · Desconectar os cabos da fonte
 Solte os conectores que saem da fonte: o principal de 24 pinos da placa-mãe, o da CPU, os da placa de vídeo e das unidades de armazenamento.
 
-![Foto do passo 3](imagens/desmontagem-03.jpg)
+![Foto do passo 3](foto3.png)
 
 ---
 
 ### Passo 4 · Retirar a fonte de alimentação
 Remova os parafusos da parte de trás do gabinete e retire a fonte com cuidado.
 
-![Foto do passo 4](imagens/desmontagem-04.jpg)
+![Foto do passo 4](foto4.png)
 
 ---
 
 ### Passo 5 · Remover a placa de vídeo e placas off-board
 Se houver placa de vídeo ou de som separadas, solte o parafuso do suporte e a trava do slot, depois puxe a placa para fora.
 
-![Foto do passo 5](imagens/desmontagem-05.jpg)
+![Foto do passo 5](foto5.png)
 
 ---
 
@@ -149,42 +149,43 @@ Solte os cabos SATA (ou flat) entre a placa-mãe e as unidades de armazenamento.
 ### Passo 9 · Retirar HDDs, SSDs e unidades ópticas
 Remova os parafusos ou trilhos que prendem cada unidade e retire-as do gabinete.
 
-![Foto do passo 9](imagens/desmontagem-09.jpg)
+![Foto do passo 9](foto9.png)
+![Foto do passo 9.1](foto9-1.png)
 
 ---
 
 ### Passo 10 · Remover a memória RAM
 Abra as travas laterais do slot e puxe o pente de memória para cima, segurando pelas bordas.
 
-![Foto do passo 10](imagens/desmontagem-10.jpg)
+![Foto do passo 10](foto10.png)
 
 ---
 
 ### Passo 11 · Retirar o dissipador e o cooler
 Solte o encaixe ou os parafusos do cooler e levante-o com cuidado. A pasta térmica pode "colar" o conjunto: gire levemente antes de puxar.
 
-![Foto do passo 11](imagens/desmontagem-11.jpg)
+![Foto do passo 11](foto11.png)
 
 ---
 
 ### Passo 12 · Remover o processador
 Levante a alavanca do soquete e retire a CPU **sem tocar nos contatos**.
 
-![Foto do passo 12](imagens/desmontagem-12.jpg)
+![Foto do passo 12](foto12.png)
 
 ---
 
 ### Passo 13 · Soltar a placa-mãe do gabinete
 Remova todos os parafusos que fixam a placa ao chassi e retire-a com cuidado.
 
-![Foto do passo 13](imagens/desmontagem-13.jpg)
-
+![Foto do passo 13](foto13.png)
+![Foto do passo 13.1](foto13-1.png)
 ---
 
 ### Passo 14 · Limpeza
 Com o gabinete vazio, aproveite para limpar a poeira com pincel e ar comprimido.
 
-![Foto do passo 14: gabinete vazio e limpo](imagens/desmontagem-14.jpg)
+![Foto do passo 14: gabinete vazio e limpo](foto14.png)
 
 **Desmontagem concluída!**
 
