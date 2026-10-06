@@ -1,7 +1,8 @@
 # 🖥️ Desmontagem e Montagem de um PC Desktop
-### Um guia prático, passo a passo, feito por quem colocou a mão na massa
+### Um guia prático, passo a passo, feito por duas alunas do IFPB, técnicas em informática
 
-> 👥 **Dupla:** [Nome 1] e [Nome 2]
+> 👥 **Dupla:** Maria Gabrielle de O. A. Nascimento
+>               Kathleen Brenda dos S. Pontes 
 > 🏫 **Disciplina:** Montagem e Manutenção de Computadores
 > 📅 **Data da prática:** [dd/mm/aaaa]
 
@@ -54,8 +55,6 @@ Saber fazer isso é a base de qualquer trabalho de manutenção: antes de conser
 | Pincel antiestático | Limpeza da poeira |
 | Multímetro | Testar tensões da fonte |
 | Recipiente para parafusos | Organizar e não perder nada |
-
-> 💡 Marque no seu tutorial apenas as ferramentas que **vocês realmente usaram**.
 
 ![Foto: ferramentas organizadas sobre a bancada](imagens/ferramentas.jpg)
 
@@ -323,15 +322,6 @@ Conecte o cabo de energia, ligue o PC e observe se ele inicia normalmente.
 
 ---
 
-## 💭 Dificuldades e aprendizados
-
-> ✍️ Escrevam aqui, com suas palavras, o que foi difícil, o que deu errado e o que vocês aprenderam. Exemplo:
->
-> - Qual etapa foi a mais complicada?
-> - Houve algum erro ou susto?
-> - O que fariam diferente da próxima vez?
-
----
 
 ## 📚 Referências e créditos
 
