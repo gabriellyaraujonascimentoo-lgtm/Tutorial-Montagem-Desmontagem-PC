@@ -55,7 +55,7 @@ Saber fazer isso é a base de qualquer trabalho de manutenção: antes de conser
 | Multímetro | Testar tensões da fonte |
 | Recipiente para parafusos | Organizar e não perder nada |
 
-![Foto: ferramentas organizadas sobre a bancada](imagens/ferramentas.jpg)
+![Foto: ferramentas organizadas sobre a bancada](fotobancada.png)
 
 ###Componentes do computador
 
@@ -91,7 +91,6 @@ Saber fazer isso é a base de qualquer trabalho de manutenção: antes de conser
 ### Passo 1 · Desligar e desconectar tudo
 Desligue o computador, tire o cabo da tomada e desconecte mouse, teclado, monitor e demais periféricos.
 
-![Foto do passo 1](imagens/desmontagem-01.jpg)
 
 ---
 
