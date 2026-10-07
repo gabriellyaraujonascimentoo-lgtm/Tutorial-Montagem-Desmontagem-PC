@@ -196,98 +196,98 @@ Com o gabinete vazio, aproveite para limpar a poeira com pincel e ar comprimido.
 ### Passo 1 · Preparar o gabinete
 Confira se o gabinete está em bom estado e se tem os parafusos e conectores necessários para placa-mãe, fonte, unidades, placas de expansão, botões, LEDs, áudio e USB.
 
-![Foto do passo 1](imagens/montagem-01.jpg)
+![Foto do passo 1](fotom1.png)
 
 ---
 
 ### Passo 2 · Fixar a placa-mãe
 Alinhe a placa com os espaçadores do gabinete e aparafuse sem apertar demais.
 
-![Foto do passo 2](imagens/montagem-02.jpg)
+![Foto do passo 2](fotom2.png)
 
 ---
 
 ### Passo 3 · Ligar os conectores do painel frontal
 Conecte liga/desliga, reset, LEDs, USB e áudio nos pinos corretos, conforme o manual da placa-mãe.
 
-![Foto do passo 3](imagens/montagem-03.jpg)
+![Foto do passo 3](fotom3.png)
 
 ---
 
 ### Passo 4 · Conectar os periféricos on-board
 Encaixe os conectores dos barramentos externos da placa (USB, áudio, etc.).
 
-![Foto do passo 4](imagens/montagem-04.jpg)
+![Foto do passo 4](fotom4.png)
 
 ---
 
 ### Passo 5 · Instalar o processador
 Alinhe o triângulo (ou marcação) da CPU com o do soquete, encaixe sem forçar e abaixe a alavanca.
 
-![Foto do passo 5](imagens/montagem-05.jpg)
+![Foto do passo 5](fotom5.png)
 
 ---
 
 ### Passo 6 · Pasta térmica e cooler
 Aplique uma pequena quantidade de pasta térmica no centro do processador e instale o dissipador com o cooler. Conecte o cabo do ventilador no conector `CPU_FAN`.
 
-![Foto do passo 6](imagens/montagem-06.jpg)
+![Foto do passo 6](fotom6.png)
 
 ---
 
 ### Passo 7 · Instalar a memória RAM
 Alinhe o pente com o encaixe do slot e pressione até as travas fecharem com um "clique".
 
-![Foto do passo 7](imagens/montagem-07.jpg)
+![Foto do passo 7](fotom7.png)
 
 ---
 
 ### Passo 8 · Instalar a placa de vídeo
 Encaixe no slot PCIe, prenda o parafuso do suporte e conecte a alimentação extra, se necessário.
 
-![Foto do passo 8](imagens/montagem-08.jpg)
+![Foto do passo 8](fotom8.png)
 
 ---
 
 ### Passo 9 · Fixar as unidades de armazenamento
 Instale HDDs, SSDs e unidades ópticas nos suportes do gabinete.
 
-![Foto do passo 9](imagens/montagem-09.jpg)
+![Foto do passo 9](fotom9.png)
 
 ---
 
 ### Passo 10 · Instalar a fonte de alimentação
 Posicione a fonte no gabinete e fixe com os parafusos traseiros.
 
-![Foto do passo 10](imagens/montagem-10.jpg)
+![Foto do passo 10](fotom10.png)
 
 ---
 
 ### Passo 11 · Conectar os cabos da fonte
 Ligue o conector de 24 pinos, o da CPU, os da placa de vídeo e os das unidades.
 
-![Foto do passo 11](imagens/montagem-11.jpg)
+![Foto do passo 11](fotom11.png)
 
 ---
 
 ### Passo 12 · Conectar os cabos de dados
 Ligue os cabos SATA (ou flat) entre as unidades e a placa-mãe.
 
-![Foto do passo 12](imagens/montagem-12.jpg)
+![Foto do passo 12](fotom12.png)
 
 ---
 
 ### Passo 13 · Instalar demais periféricos internos
 Se houver outras placas ou dispositivos, instale agora.
 
-![Foto do passo 13](imagens/montagem-13.jpg)
+![Foto do passo 13](fotom13.png)
 
 ---
 
 ### Passo 14 · Conectar mouse, teclado e monitor
 Reconecte os periféricos externos.
 
-![Foto do passo 14](imagens/montagem-14.jpg)
+![Foto do passo 14](fotom14.png)
 
 ---
 
@@ -297,14 +297,14 @@ Reconecte os periféricos externos.
 - [ ] Chave de tensão da fonte (110V/220V) na posição correta
 - [ ] Tomada com aterramento e/ou estabilizador
 
-![Foto do passo 15](imagens/montagem-15.jpg)
+![Foto do passo 15](fotom15.png)
 
 ---
 
 ### Passo 16 · Ligar pela primeira vez
 Conecte o cabo de energia, ligue o PC e observe se ele inicia normalmente.
 
-![Foto do passo 16: computador ligado](imagens/montagem-16.jpg)
+![Foto do passo 16: computador ligado](fotom16.png)
 
 **Montagem concluída!**
 
