@@ -125,7 +125,6 @@ Se houver placa de vídeo ou de som separadas, solte o parafuso do suporte e a t
 ### Passo 6 · Desconectar os cabos do painel frontal
 Retire os conectores do gabinete ligados à placa-mãe: botão de liga/desliga, reset, LEDs, USB frontal e áudio.
 
-![Foto do passo 6](fotod6.png)
 
 ---
 
@@ -204,6 +203,8 @@ Conecte liga/desliga, reset, LEDs, USB e áudio nos pinos corretos, conforme o m
 
 ### Passo 4 · Conectar os periféricos on-board
 Encaixe os conectores dos barramentos externos da placa (USB, áudio, etc.).
+
+![Foto do passo 6](fotod6.png)
 
 ---
 
