@@ -299,7 +299,7 @@ Conecte o cabo de energia, ligue o PC e observe se ele inicia normalmente.
 
 **Referências e créditos**
 
-- Roteiro-base adaptado de: [Montagem e desmontagem de computadores, de Maxwell Anderson](https://maxwellamaral.github.io/lessons/hardware/repair/disassembly/) (licença [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pt-br)).
+- Roteiro-base adaptado de: [Montagem e desmontagem de computadores, de Maxwell Anderson](https://maxwellamaral.github.io/lessons/hardware/repair/disassembly/)
 - Fotos: registros feitos pela própria dupla durante a aula prática.
 
 ---
