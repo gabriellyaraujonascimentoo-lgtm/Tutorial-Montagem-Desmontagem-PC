@@ -1,7 +1,7 @@
 #Desmontagem e Montagem de um PC Desktop
 ### Um guia prático, passo a passo, feito por duas alunas do IFPB, técnicas em informática
 
-> **Dupla:** Maria Gabrielle de O. A. Nascimento e Kathleen Brenda dos S. Pontes                                                                                                                                            
+> **Dupla:** Maria Gabrielle e Kathleen Brenda                                                                                                                                     
 > **Disciplina:** Montagem e Manutenção de Computadores                                                                                                                                                 
 
 ![Foto de capa: visão geral do computador aberto sobre a bancada](foto1.png)
