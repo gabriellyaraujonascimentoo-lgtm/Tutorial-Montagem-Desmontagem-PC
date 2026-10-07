@@ -179,7 +179,7 @@ Com o gabinete vazio, aproveite para limpar a poeira com pincel e ar comprimido.
 
 ---
 
-##Montagem passo a passo
+## Montagem passo a passo
 
 > Agora fazemos o caminho inverso, mas com atenção à ordem.
 
