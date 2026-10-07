@@ -35,7 +35,7 @@ Saber fazer isso é a base de qualquer trabalho de manutenção: antes de conser
 -  Remontar o computador sem esquecer nenhum cabo ou parafuso
 - Saber o que fazer depois de ligar pela primeira vez
 
-**Tempo estimado:** [xx] minutos &nbsp;|&nbsp; **Nível:** iniciante
+**Tempo estimado:** 30 minutos &nbsp;|&nbsp; **Nível:** iniciante
 
 ---
 
@@ -235,7 +235,6 @@ Alinhe o pente com o encaixe do slot e pressione até as travas fecharem com um 
 ### Passo 8 · Instalar a placa de vídeo
 Encaixe no slot PCIe, prenda o parafuso do suporte e conecte a alimentação extra, se necessário.
 
-![Foto do passo 8](fotom8.png)
 
 ---
 
@@ -277,14 +276,11 @@ Reconecte os periféricos externos.
 - [ ] Chave de tensão da fonte (110V/220V) na posição correta
 - [ ] Tomada com aterramento e/ou estabilizador
 
-![Foto do passo 14](fotom15.png)
-
 ---
 
 ### Passo 16 · Ligar pela primeira vez
 Conecte o cabo de energia, ligue o PC e observe se ele inicia normalmente.
 
-![Foto do passo 16: computador ligado](fotom16.png)
 
 **Montagem concluída!**
 
