@@ -232,9 +232,9 @@ Alinhe o triângulo (ou marcação) da CPU com o do soquete, encaixe sem forçar
 Aplique uma pequena quantidade de pasta térmica no centro do processador e instale o dissipador com o cooler. Conecte o cabo do ventilador no conector `CPU_FAN`.
 
 ![Foto do passo 6](fotom6.png)
-![Foto do passo 6-1](fotom6-1.png)
+![Foto do passo 6-1](foto6-1.png)
 ![Foto do passo 6-2](fotom6-2.png)
-![Foto do passo 6-3](fotom6-3.png)
+![Foto do passo 6-3](foto6-3.png)
 
 ---
 
