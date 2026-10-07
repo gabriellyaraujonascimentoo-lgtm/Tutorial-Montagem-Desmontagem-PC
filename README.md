@@ -115,71 +115,67 @@ Remova os parafusos da parte de trás do gabinete e retire a fonte com cuidado.
 ---
 
 ### Passo 5 · Remover a placa de vídeo e placas off-board
-Se houver placa de vídeo ou de som separadas, solte o parafuso do suporte e a trava do slot, depois puxe a placa para fora.
+Se houver placa de vídeo ou de som separadas, solte o parafuso do suporte e a trava do slot, depois puxe a placa para fora. Remover as demais placas de expansão, placas de rede, de captura ou qualquer outra conectada à placa-mãe saem da mesma forma.
+
 
 ![Foto do passo 5](foto5.png)
 
 ---
 
-### Passo 6 · Remover as demais placas de expansão
-Placas de rede, de captura ou qualquer outra conectada à placa-mãe saem da mesma forma.
 
----
-
-### Passo 7 · Desconectar os cabos do painel frontal
+### Passo 6 · Desconectar os cabos do painel frontal
 Retire os conectores do gabinete ligados à placa-mãe: botão de liga/desliga, reset, LEDs, USB frontal e áudio.
 
-> Tire uma foto desta região antes. É a etapa em que mais se erra na montagem.
 
 ---
 
-### Passo 8 · Desconectar os cabos de dados
+### Passo 7 · Desconectar os cabos de dados
 Solte os cabos SATA (ou flat) entre a placa-mãe e as unidades de armazenamento.
 
-![Foto do passo 8](imagens/desmontagem-08.jpg)
+![Foto do passo 7](foto7.png)
 
 ---
 
-### Passo 9 · Retirar HDDs, SSDs e unidades ópticas
+### Passo 8 · Retirar HDDs, SSDs e unidades ópticas
 Remova os parafusos ou trilhos que prendem cada unidade e retire-as do gabinete.
 
-![Foto do passo 9](foto9.png)
-![Foto do passo 9.1](foto9-1.png)
+![Foto do passo 8](foto9.png)
+![Foto do passo 8.1](foto9-1.png)
 
 ---
 
-### Passo 10 · Remover a memória RAM
+### Passo 9 · Remover a memória RAM
 Abra as travas laterais do slot e puxe o pente de memória para cima, segurando pelas bordas.
 
-![Foto do passo 10](foto10.png)
+![Foto do passo 9](foto10.png)
 
 ---
 
-### Passo 11 · Retirar o dissipador e o cooler
+### Passo 10 · Retirar o dissipador e o cooler
 Solte o encaixe ou os parafusos do cooler e levante-o com cuidado. A pasta térmica pode "colar" o conjunto: gire levemente antes de puxar.
 
-![Foto do passo 11](foto11.png)
+![Foto do passo 10](foto11.png)
 
 ---
 
-### Passo 12 · Remover o processador
+### Passo 11 · Remover o processador
 Levante a alavanca do soquete e retire a CPU **sem tocar nos contatos**.
 
-![Foto do passo 12](foto12.png)
+![Foto do passo 11](foto12.png)
 
 ---
 
-### Passo 13 · Soltar a placa-mãe do gabinete
+### Passo 12 · Soltar a placa-mãe do gabinete
 Remova todos os parafusos que fixam a placa ao chassi e retire-a com cuidado.
 
-![Foto do passo 13](foto13.png)
-![Foto do passo 13.1](foto13-1.png)
+![Foto do passo 12](foto13.png)
+![Foto do passo 12.1](foto13-1.png)
 ---
 
-### Passo 14 · Limpeza
+### Passo 13 · Limpeza
 Com o gabinete vazio, aproveite para limpar a poeira com pincel e ar comprimido.
 
-![Foto do passo 14: gabinete vazio e limpo](foto14.png)
+![Foto do passo 13: gabinete vazio e limpo](foto14.png)
 
 **Desmontagem concluída!**
 
