@@ -206,14 +206,10 @@ Alinhe a placa com os espaçadores do gabinete e aparafuse sem apertar demais.
 ### Passo 3 · Ligar os conectores do painel frontal
 Conecte liga/desliga, reset, LEDs, USB e áudio nos pinos corretos, conforme o manual da placa-mãe.
 
-![Foto do passo 3](fotom3.png)
-
 ---
 
 ### Passo 4 · Conectar os periféricos on-board
 Encaixe os conectores dos barramentos externos da placa (USB, áudio, etc.).
-
-![Foto do passo 4](fotom4.png)
 
 ---
 
