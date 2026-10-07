@@ -211,6 +211,7 @@ Encaixe os conectores dos barramentos externos da placa (USB, áudio, etc.).
 Alinhe o triângulo (ou marcação) da CPU com o do soquete, encaixe sem forçar e abaixe a alavanca.
 
 ![Foto do passo 5](fotom5.png)
+![Foto do passo 5](fotom5-1.jpg)
 
 ---
 
@@ -227,7 +228,7 @@ Aplique uma pequena quantidade de pasta térmica no centro do processador e inst
 ### Passo 7 · Instalar a memória RAM
 Alinhe o pente com o encaixe do slot e pressione até as travas fecharem com um "clique".
 
-![Foto do passo 7](fotom7.png)
+![Foto do passo 7](fotom7.jpg)
 
 ---
 
