@@ -132,7 +132,7 @@ Retire os conectores do gabinete ligados à placa-mãe: botão de liga/desliga, 
 ### Passo 7 · Desconectar os cabos de dados
 Solte os cabos SATA (ou flat) entre a placa-mãe e as unidades de armazenamento.
 
-![Foto do passo 7](foto7.)
+![Foto do passo 7](foto7.jpg)
 ---
 
 ### Passo 8 · Retirar HDDs, SSDs e unidades ópticas
