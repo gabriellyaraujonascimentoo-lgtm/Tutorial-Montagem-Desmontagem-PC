@@ -8,7 +8,7 @@
 
 ---
 
-##Índice
+**Índice**
 
 1. [Introdução](#-introdução)
 2. [Ferramentas e componentes](#-ferramentas-e-componentes)
@@ -21,7 +21,7 @@
 
 ---
 
-##Introdução
+**Introdução**
 
 Neste tutorial vamos mostrar, com fotos reais da nossa aula prática, como **desmontar** um computador desktop até o último componente e como **montá-lo novamente** na ordem certa.
 
@@ -38,9 +38,9 @@ Saber fazer isso é a base de qualquer trabalho de manutenção: antes de conser
 
 ---
 
-##Ferramentas e componentes
+**Ferramentas e componentes**
 
-###Ferramentas utilizadas
+**Ferramentas utilizadas**
 
 | Ferramenta | Para que serve |
 |---|---|
@@ -56,7 +56,7 @@ Saber fazer isso é a base de qualquer trabalho de manutenção: antes de conser
 
 ![Foto: ferramentas organizadas sobre a bancada](fotobancada.png)
 
-###Componentes do computador
+**Componentes do computador**
 
 | Componente | Função |
 |---|---|
@@ -72,7 +72,7 @@ Saber fazer isso é a base de qualquer trabalho de manutenção: antes de conser
 
 ---
 
-##Antes de começar: cuidados
+**Antes de começar: cuidados**
 
 - **Desligue e tire da tomada.** Nunca trabalhe com o PC ligado à energia.
 - **Descarregue a eletricidade estática.** Toque em uma parte metálica do gabinete ou use pulseira antiestática.
@@ -82,7 +82,7 @@ Saber fazer isso é a base de qualquer trabalho de manutenção: antes de conser
 
 ---
 
-##Desmontagem passo a passo
+**Desmontagem passo a passo**
 
 > Siga a ordem abaixo. Ela evita danos e facilita a remontagem.
 
@@ -131,7 +131,6 @@ Retire os conectores do gabinete ligados à placa-mãe: botão de liga/desliga, 
 ### Passo 7 · Desconectar os cabos de dados
 Solte os cabos SATA (ou flat) entre a placa-mãe e as unidades de armazenamento.
 
-![Foto do passo 7](foto7.png)
 
 ---
 
@@ -285,7 +284,7 @@ Conecte o cabo de energia, ligue o PC e observe se ele inicia normalmente.
 
 ---
 
-##Depois da montagem
+**Depois da montagem**
 
 1. **Configurar o Setup (BIOS/UEFI):** data, hora e ordem de boot.
 2. **Instalar o sistema operacional.**
@@ -296,7 +295,7 @@ Conecte o cabo de energia, ligue o PC e observe se ele inicia normalmente.
 ---
 
 
-##Referências e créditos
+**Referências e créditos**
 
 - Roteiro-base adaptado de: [Montagem e desmontagem de computadores, de Maxwell Anderson](https://maxwellamaral.github.io/lessons/hardware/repair/disassembly/) (licença [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pt-br)).
 - Fotos: registros feitos pela própria dupla durante a aula prática.
