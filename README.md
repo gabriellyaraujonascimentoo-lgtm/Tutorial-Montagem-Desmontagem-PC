@@ -204,7 +204,6 @@ Conecte liga/desliga, reset, LEDs, USB e áudio nos pinos corretos, conforme o m
 ### Passo 4 · Conectar os periféricos on-board
 Encaixe os conectores dos barramentos externos da placa (USB, áudio, etc.).
 
-![Foto do passo 6](fotod6.png)
 
 ---
 
