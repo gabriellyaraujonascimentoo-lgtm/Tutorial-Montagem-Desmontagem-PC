@@ -124,16 +124,12 @@ Se houver placa de vídeo ou de som separadas, solte o parafuso do suporte e a t
 ### Passo 6 · Remover as demais placas de expansão
 Placas de rede, de captura ou qualquer outra conectada à placa-mãe saem da mesma forma.
 
-![Foto do passo 6](imagens/desmontagem-06.jpg)
-
 ---
 
 ### Passo 7 · Desconectar os cabos do painel frontal
 Retire os conectores do gabinete ligados à placa-mãe: botão de liga/desliga, reset, LEDs, USB frontal e áudio.
 
 > Tire uma foto desta região antes. É a etapa em que mais se erra na montagem.
-
-![Foto do passo 7](imagens/desmontagem-07.jpg)
 
 ---
 
