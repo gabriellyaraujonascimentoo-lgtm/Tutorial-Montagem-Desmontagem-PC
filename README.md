@@ -256,7 +256,7 @@ Posicione a fonte no gabinete e fixe com os parafusos traseiros. Ligue o conecto
 ### Passo 11 · Conectar os cabos de dados
 Ligue os cabos SATA (ou flat) entre as unidades e a placa-mãe.
 
-![Foto do passo 11](fotom11.png)
+![Foto do passo 11](foto11mm.jpg)
 
 ---
 
