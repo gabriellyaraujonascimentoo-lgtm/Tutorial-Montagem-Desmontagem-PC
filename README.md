@@ -125,14 +125,14 @@ Se houver placa de vídeo ou de som separadas, solte o parafuso do suporte e a t
 ### Passo 6 · Desconectar os cabos do painel frontal
 Retire os conectores do gabinete ligados à placa-mãe: botão de liga/desliga, reset, LEDs, USB frontal e áudio.
 
-![Foto do passo 6](foto6.jpg)
+![Foto do passo 6](foto6.png)
 
 ---
 
 ### Passo 7 · Desconectar os cabos de dados
 Solte os cabos SATA (ou flat) entre a placa-mãe e as unidades de armazenamento.
 
-![Foto do passo 7](foto7.jpg)
+![Foto do passo 7](foto7.)
 ---
 
 ### Passo 8 · Retirar HDDs, SSDs e unidades ópticas
