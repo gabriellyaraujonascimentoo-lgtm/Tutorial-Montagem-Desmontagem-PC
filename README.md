@@ -1,4 +1,4 @@
-#Desmontagem e Montagem de um PC Desktop
+# Desmontagem e Montagem de um PC Desktop
 ### Um guia prático, passo a passo, feito por duas alunas do IFPB, técnicas em informática
 
 > **Dupla:** Maria Gabrielle e Kathleen Brenda                                                                                                                                     
