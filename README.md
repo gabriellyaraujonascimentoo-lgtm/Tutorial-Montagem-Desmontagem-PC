@@ -192,7 +192,6 @@ Com o gabinete vazio, aproveite para limpar a poeira com pincel e ar comprimido.
 ### Passo 1 · Preparar o gabinete
 Confira se o gabinete está em bom estado e se tem os parafusos e conectores necessários para placa-mãe, fonte, unidades, placas de expansão, botões, LEDs, áudio e USB.
 
-![Foto do passo 1](fotom1.png)
 
 ---
 
