@@ -259,48 +259,38 @@ Instale HDDs, SSDs e unidades ópticas nos suportes do gabinete.
 
 ---
 
-### Passo 10 · Instalar a fonte de alimentação
-Posicione a fonte no gabinete e fixe com os parafusos traseiros.
+### Passo 10 · Instalar a fonte de alimentação e Conectar os cabos da fonte
+Posicione a fonte no gabinete e fixe com os parafusos traseiros. Ligue o conector de 24 pinos, o da CPU, os da placa de vídeo e os das unidades.
 
 ![Foto do passo 10](fotom10.png)
+![Foto do passo 10-1](fotom10-1.png)
 
 ---
 
-### Passo 11 · Conectar os cabos da fonte
-Ligue o conector de 24 pinos, o da CPU, os da placa de vídeo e os das unidades.
+### Passo 11 · Conectar os cabos de dados
+Ligue os cabos SATA (ou flat) entre as unidades e a placa-mãe.
 
 ![Foto do passo 11](fotom11.png)
 
 ---
 
-### Passo 12 · Conectar os cabos de dados
-Ligue os cabos SATA (ou flat) entre as unidades e a placa-mãe.
-
-![Foto do passo 12](fotom12.png)
-
----
-
-### Passo 13 · Instalar demais periféricos internos
+### Passo 12 · Instalar demais periféricos internos
 Se houver outras placas ou dispositivos, instale agora.
 
-![Foto do passo 13](fotom13.png)
-
 ---
 
-### Passo 14 · Conectar mouse, teclado e monitor
+### Passo 13 · Conectar mouse, teclado e monitor
 Reconecte os periféricos externos.
 
-![Foto do passo 14](fotom14.png)
-
 ---
 
-### Passo 15 · Conferir tudo antes de ligar
+### Passo 14 · Conferir tudo antes de ligar
 - [ ] Todos os cabos bem encaixados
 - [ ] Nenhum parafuso solto dentro do gabinete
 - [ ] Chave de tensão da fonte (110V/220V) na posição correta
 - [ ] Tomada com aterramento e/ou estabilizador
 
-![Foto do passo 15](fotom15.png)
+![Foto do passo 14](fotom15.png)
 
 ---
 
