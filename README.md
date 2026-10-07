@@ -125,7 +125,7 @@ Se houver placa de vídeo ou de som separadas, solte o parafuso do suporte e a t
 ### Passo 6 · Desconectar os cabos do painel frontal
 Retire os conectores do gabinete ligados à placa-mãe: botão de liga/desliga, reset, LEDs, USB frontal e áudio.
 
-![Foto do passo 6](foto6.png)
+![Foto do passo 6](fotod6.png)
 
 ---
 
